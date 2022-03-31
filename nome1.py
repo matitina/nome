@@ -7,3 +7,5 @@ Created on Thu Mar 31 10:57:58 2022
 """
 
 print("Hello World ")
+x = 10
+print(x*2)
